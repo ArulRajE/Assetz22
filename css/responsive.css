@@ -40,6 +40,7 @@
 	.logo-footer img{max-width: 25%;}
 	.feature-box-rounded {margin: 0 auto 20px auto;display: block;float: none;}
 	.blog-grid-slider .slick-prev{-webkit-transform: translateX(0px);-moz-transform: translateX(0px);transform: translateX(0px);}
+	.slider-bg .hero-text h3, .hero-text h3{margin-top: 30px;}
 }
 
 
